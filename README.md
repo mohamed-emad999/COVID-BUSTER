@@ -1,4 +1,4 @@
-# Mask_Detectiom_System
+# Mask_Detection_System
  A system used to detect whether a person is wearing a medical mask or not.
 
 To open the program, please follow these steps:
