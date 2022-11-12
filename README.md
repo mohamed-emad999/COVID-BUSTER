@@ -6,5 +6,5 @@ To open the program, please follow these steps:
 - Write the following command: "python main.py"
 
 <p align="center">
-  <img src="COVID-BUSTER's Poster.png" width="100%" height="100px" title="hover text">
+  <img src="COVID-BUSTER's Poster.png" width="100%" title="hover text">
 </p>
