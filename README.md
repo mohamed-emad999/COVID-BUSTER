@@ -4,3 +4,7 @@ To open the program, please follow these steps:
 - Make sure that you have these packages installed: [Python - TensorFlow - Keras - Imutils - NumPy - OpenCV - matplotlib - scipy].
 - Open the terminal window and navigate to the program folder.
 - Write the following command: "python main.py"
+
+<p align="center">
+  <img src="COVID-BUSTER's Poster.png" width="350" title="hover text">
+</p>
